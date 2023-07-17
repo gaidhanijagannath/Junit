@@ -22,6 +22,6 @@ public class AssertTest {
         assertEquals(1,1);
         assertArrayEquals(new int[]{1, 2, 3}, new int[]{1, 2, 3});
 
-        // assertNotNull(); assertNull(); for checking objects.
+        // assertNotNull(); assertNull(); for checking objects..
     }
 }

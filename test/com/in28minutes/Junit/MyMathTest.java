@@ -13,7 +13,7 @@ public class MyMathTest {
 
     MyMath myMath = new MyMath();
 
-    //run before every test
+    //run before every test.
     @Before
     public void before(){
         System.out.println("before");
